@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: OfferWorkerRole1, Configuration: Debug Any CPU ------
+1>C:\Users\46736\Desktop\Olakunle_Ibrahim_4\OfferWorkerRole1\WorkerRole.cs(215,17,215,18): warning CS0168: The variable 'i' is declared but never used
+1>  OfferWorkerRole1 -> C:\Users\46736\Desktop\Olakunle_Ibrahim_4\OfferWorkerRole1\bin\Debug\OfferWorkerRole1.dll
+2>------ Build started: Project: Olakunle_Ibrahim_4, Configuration: Debug Any CPU ------
+========== Build: 2 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
