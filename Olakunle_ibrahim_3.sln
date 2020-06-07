@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "Olakunle_ibrahim_3", "Olakunle_ibrahim_3\Olakunle_ibrahim_3.ccproj", "{B10AACD6-6639-40D3-AF79-23CA4ACFB2A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarWorkerRole1", "CarWorkerRole1\CarWorkerRole1.csproj", "{2035A5F0-AB3C-44A2-A7A8-1683C042CD8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B10AACD6-6639-40D3-AF79-23CA4ACFB2A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B10AACD6-6639-40D3-AF79-23CA4ACFB2A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B10AACD6-6639-40D3-AF79-23CA4ACFB2A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B10AACD6-6639-40D3-AF79-23CA4ACFB2A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2035A5F0-AB3C-44A2-A7A8-1683C042CD8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2035A5F0-AB3C-44A2-A7A8-1683C042CD8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2035A5F0-AB3C-44A2-A7A8-1683C042CD8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2035A5F0-AB3C-44A2-A7A8-1683C042CD8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E720A1A8-B320-4A51-BCBF-1DBCA2331577}
+	EndGlobalSection
+EndGlobal
