@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "Olakunle_Ibrahim_2", "Olakunle_Ibrahim_2\Olakunle_Ibrahim_2.ccproj", "{FDEA551F-334C-4D2E-9953-2114F40F2D05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelWorkerRole1", "HotelWorkerRole1\HotelWorkerRole1.csproj", "{77672339-9195-4C3F-A063-5E058F4F1C0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDEA551F-334C-4D2E-9953-2114F40F2D05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDEA551F-334C-4D2E-9953-2114F40F2D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDEA551F-334C-4D2E-9953-2114F40F2D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDEA551F-334C-4D2E-9953-2114F40F2D05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77672339-9195-4C3F-A063-5E058F4F1C0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77672339-9195-4C3F-A063-5E058F4F1C0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77672339-9195-4C3F-A063-5E058F4F1C0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77672339-9195-4C3F-A063-5E058F4F1C0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BCB8E32-A50A-40E1-99FE-BDDE85FF249C}
+	EndGlobalSection
+EndGlobal
